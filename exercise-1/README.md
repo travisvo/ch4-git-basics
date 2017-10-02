@@ -21,6 +21,9 @@ text editor of your choice
 5. In the `README.md` file, make an ordered list of what you ate for
 breakfast today
 
+What I ate for Breakfast today
+1. 2 bagels with 2 packets of cream cheese.
+
 6. Using your terminal, add and commit the changes you've made to your repository
 
 7. Push changes up to GitHub
